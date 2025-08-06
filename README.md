@@ -1,43 +1,67 @@
 # 🤖 DataMaestro
 
-
-DataMeastro here!👋, 
-I'm an aspiring Data Scientist passionate about Machine Learning, The Concept of AI, and its impact on the environment and I enjoy coding and reading.
-
-   Socials:      [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onovaehonour3442/)]((https://www.linkedin.com/in/onovaehonour3442/))
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbosshonour@gmail.com)](mailto:dbosshonour@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-fe5c8f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_honourthegeek_/)]((https://www.instagram.com/_honourthegeek_/))
+Hi there! I'm **DataMaestro** 👋 — also known as Honour, an aspiring **Data Scientist** passionate about **Machine Learning**, the **concept of AI**, and its **impact on the environment**. I enjoy coding, reading, and solving problems that make me think.  
 
 ---
-- 🔭 I’m currently working on datasets and Predictive Modeling 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working with
-  - 🌐 Predictive Modeling
-  - 🤯 Problems that make me think
-- 🤝 Seeking for apprenticeships or internships
-- 🌱 Currently learning about Machine and Deep Learning
 
+## 🌍 Let's Connect
 
-### 🧰 Languages and Tools
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/onovaehonour3442/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dbosshonour@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-fe5c8f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_honourthegeek_/)
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<br />
+---
 
-#
+## 🔭 What I'm Working On
+
+- Diving into datasets & **predictive modeling**
+- Exploring **Machine Learning** & **Deep Learning**
+- Looking for **apprenticeships** and **internships** to gain real-world experience
+- Developing a long-term project around **data-driven real estate insights**
+
+---
+
+## 🛠️ Languages & Tools
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<!-- Programming Languages -->
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+<!-- Web -->
+<img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<!-- Tools & Platforms -->
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img alt="Streamlit" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <!-- AI / ML Frameworks -->
+  <img alt="PyTorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+
+</div>
+
+---
+
+## 🧠 Honour's Coding Journey
+
 <details>
- <summary><h3>👨‍💻 Honour's Coding Journey</h3></summary>
+  <summary><strong>📖 Read My Story</strong></summary>
 
-My journey into data science began with an insatiable curiosity as a young coder, eager to unravel the intricacies of data analysis, particularly within real estate. Immersed in datasets, I honed my Python skills and delved into statistical theories, fueled by a fervent ambition to extract meaningful insights.
+My journey into data science started with a burning curiosity as a young coder, eager to understand data and its real-world applications — especially in **real estate**.
 
-While my initial focus was on real estate analysis, I was captivated by the broader realm of machine learning and predictive modeling. Exploring various algorithms, I gradually steered my path toward becoming a data scientist.
+Over time, I strengthened my skills in **Python**, **statistics**, and **data analysis**. What began as a niche interest soon evolved into a broader fascination with **machine learning** and **predictive modeling**.
 
-Amidst my academic endeavors, a persistent dream lingered – to create my data-driven application, one that could redefine how insights are derived in the real estate sector. However, with graduation on the distant horizon, I opted to fortify my skills by securing internships and taking on projects, rather than rushing into traditional employment.
+I dream of building a **data-driven app** that transforms how insights are used in the real estate space. While I still have academic goals ahead, I'm actively sharpening my skills through **projects** and **internships**, focused on real-world impact over conventional paths.
 
-As I continue on this journey, propelled by passion and purpose, I invite you to join me. In the world of data science, as in life, the greatest discoveries await those who dare to chase their dreams.
+</details>
 
 ---
 
-
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> Thanks for stopping by!
