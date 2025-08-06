@@ -1,7 +1,5 @@
 # 🤖 DataMaestro
 
-Hi there! I'm **DataMaestro** 👋 — also known as Honour, an aspiring **Data Scientist** passionate about **Machine Learning**, the **concept of AI**, and its **impact on the environment**. I enjoy coding, reading, and solving problems that make me think.  
-
 ---
 
 ## 🌍 Let's Connect
